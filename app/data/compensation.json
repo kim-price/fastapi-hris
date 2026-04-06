@@ -1,0 +1,182 @@
+[
+    {
+        "employee_id": 1,
+        "annual_salary": 75000.000000,
+        "hourly_rate": null,
+        "paycheck_amount": 2884.615385,
+        "pay_type": "salary",
+        "pay_frequency": "biweekly",
+        "effective_date": "2020-03-15"
+    },
+    {
+        "employee_id": 1,
+        "annual_salary": 85000.000000,
+        "hourly_rate": null,
+        "paycheck_amount": 3269.230769,
+        "pay_type": "salary",
+        "pay_frequency": "biweekly",
+        "effective_date": "2023-01-01"
+    },
+    {
+        "employee_id": 3,
+        "annual_salary": 55000.000000,
+        "hourly_rate": null,
+        "paycheck_amount": 2115.384615,
+        "pay_type": "salary",
+        "pay_frequency": "biweekly",
+        "effective_date": "2021-06-01"
+    },
+    {
+        "employee_id": 3,
+        "annual_salary": 62000.000000,
+        "hourly_rate": null,
+        "paycheck_amount": 2384.615385,
+        "pay_type": "salary",
+        "pay_frequency": "biweekly",
+        "effective_date": "2023-06-01"
+    },
+    {
+        "employee_id": 4,
+        "annual_salary": 65000.000000,
+        "hourly_rate": null,
+        "paycheck_amount": 2500.000000,
+        "pay_type": "salary",
+        "pay_frequency": "biweekly",
+        "effective_date": "2022-01-20"
+    },
+    {
+        "employee_id": 5,
+        "annual_salary": null,
+        "hourly_rate": 38.500000,
+        "paycheck_amount": null,
+        "pay_type": "hourly",
+        "pay_frequency": "biweekly",
+        "effective_date": "2021-09-12"
+    },
+    {
+        "employee_id": 5,
+        "annual_salary": null,
+        "hourly_rate": 45.000000,
+        "paycheck_amount": null,
+        "pay_type": "hourly",
+        "pay_frequency": "biweekly",
+        "effective_date": "2024-01-01"
+    },
+    {
+        "employee_id": 6,
+        "annual_salary": 95000.000000,
+        "hourly_rate": null,
+        "paycheck_amount": 3653.846154,
+        "pay_type": "salary",
+        "pay_frequency": "biweekly",
+        "effective_date": "2020-11-03"
+    },
+    {
+        "employee_id": 8,
+        "annual_salary": 110000.000000,
+        "hourly_rate": null,
+        "paycheck_amount": 4230.769231,
+        "pay_type": "salary",
+        "pay_frequency": "biweekly",
+        "effective_date": "2019-02-25"
+    },
+    {
+        "employee_id": 8,
+        "annual_salary": 125000.000000,
+        "hourly_rate": null,
+        "paycheck_amount": 4807.692308,
+        "pay_type": "salary",
+        "pay_frequency": "biweekly",
+        "effective_date": "2023-03-01"
+    },
+    {
+        "employee_id": 9,
+        "annual_salary": null,
+        "hourly_rate": 22.000000,
+        "paycheck_amount": null,
+        "pay_type": "hourly",
+        "pay_frequency": "biweekly",
+        "effective_date": "2022-08-09"
+    },
+    {
+        "employee_id": 10,
+        "annual_salary": 90000.000000,
+        "hourly_rate": null,
+        "paycheck_amount": 3461.538462,
+        "pay_type": "salary",
+        "pay_frequency": "biweekly",
+        "effective_date": "2017-04-14"
+    },
+    {
+        "employee_id": 10,
+        "annual_salary": 105000.000000,
+        "hourly_rate": null,
+        "paycheck_amount": 4038.461538,
+        "pay_type": "salary",
+        "pay_frequency": "biweekly",
+        "effective_date": "2022-01-01"
+    },
+    {
+        "employee_id": 11,
+        "annual_salary": null,
+        "hourly_rate": 35.000000,
+        "paycheck_amount": null,
+        "pay_type": "hourly",
+        "pay_frequency": "biweekly",
+        "effective_date": "2021-12-01"
+    },
+    {
+        "employee_id": 13,
+        "annual_salary": 85000.000000,
+        "hourly_rate": null,
+        "paycheck_amount": 3269.230769,
+        "pay_type": "salary",
+        "pay_frequency": "biweekly",
+        "effective_date": "2021-03-30"
+    },
+    {
+        "employee_id": 14,
+        "annual_salary": 95000.000000,
+        "hourly_rate": null,
+        "paycheck_amount": 3653.846154,
+        "pay_type": "salary",
+        "pay_frequency": "biweekly",
+        "effective_date": "2016-10-05"
+    },
+    {
+        "employee_id": 14,
+        "annual_salary": 115000.000000,
+        "hourly_rate": null,
+        "paycheck_amount": 4423.076923,
+        "pay_type": "salary",
+        "pay_frequency": "biweekly",
+        "effective_date": "2022-07-01"
+    },
+    {
+        "employee_id": 15,
+        "annual_salary": null,
+        "hourly_rate": 24.500000,
+        "paycheck_amount": null,
+        "pay_type": "hourly",
+        "pay_frequency": "biweekly",
+        "effective_date": "2023-02-11"
+    },
+    {
+        "employee_id": 16,
+        "annual_salary": 72000.000000,
+        "hourly_rate": null,
+        "paycheck_amount": 2769.230769,
+        "pay_type": "salary",
+        "pay_frequency": "biweekly",
+        "effective_date": "2022-05-19"
+    },
+    {
+        "employee_id": 17,
+        "annual_salary": 60000.000000,
+        "hourly_rate": null,
+        "paycheck_amount": 2307.692308,
+        "pay_type": "salary",
+        "pay_frequency": "biweekly",
+        "effective_date": "2023-07-01"
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "employee_id": 1,
+        "routing_number": "021000021",
+        "account_number": "1000000001",
+        "account_type": "checking",
+        "deposit_type": "remainder",
+        "deposit_value": null,
+        "priority": 1,
+        "is_active": true
+    },
+    {
+        "employee_id": 3,
+        "routing_number": "011000015",
+        "account_number": "2000000001",
+        "account_type": "savings",
+        "deposit_type": "flat",
+        "deposit_value": 500.00,
+        "priority": 1,
+        "is_active": true
+    },
+    {
+        "employee_id": 3,
+        "routing_number": "011000015",
+        "account_number": "2000000002",
+        "account_type": "checking",
+        "deposit_type": "remainder",
+        "deposit_value": null,
+        "priority": 2,
+        "is_active": true
+    },
+    {
+        "employee_id": 4,
+        "routing_number": "026009593",
+        "account_number": "3000000001",
+        "account_type": "checking",
+        "deposit_type": "percent",
+        "deposit_value": 70.00,
+        "priority": 1,
+        "is_active": true
+    },
+    {
+        "employee_id": 4,
+        "routing_number": "026009593",
+        "account_number": "3000000002",
+        "account_type": "savings",
+        "deposit_type": "percent",
+        "deposit_value": 30.00,
+        "priority": 2,
+        "is_active": true
+    },
+    {
+        "employee_id": 5,
+        "routing_number": "121000358",
+        "account_number": "4000000001",
+        "account_type": "checking",
+        "deposit_type": "remainder",
+        "deposit_value": null,
+        "priority": 1,
+        "is_active": true
+    },
+    {
+        "employee_id": 6,
+        "routing_number": "031000503",
+        "account_number": "5000000001",
+        "account_type": "savings",
+        "deposit_type": "flat",
+        "deposit_value": 1000.00,
+        "priority": 1,
+        "is_active": false
+    },
+    {
+        "employee_id": 6,
+        "routing_number": "031000503",
+        "account_number": "5000000002",
+        "account_type": "checking",
+        "deposit_type": "remainder",
+        "deposit_value": null,
+        "priority": 2,
+        "is_active": true
+    },
+    {
+        "employee_id": 8,
+        "routing_number": "111000025",
+        "account_number": "6000000001",
+        "account_type": "checking",
+        "deposit_type": "flat",
+        "deposit_value": 1500.00,
+        "priority": 1,
+        "is_active": true
+    },
+    {
+        "employee_id": 8,
+        "routing_number": "111000025",
+        "account_number": "6000000002",
+        "account_type": "savings",
+        "deposit_type": "percent",
+        "deposit_value": 20.00,
+        "priority": 2,
+        "is_active": true
+    },
+    {
+        "employee_id": 8,
+        "routing_number": "111000025",
+        "account_number": "6000000003",
+        "account_type": "checking",
+        "deposit_type": "remainder",
+        "deposit_value": null,
+        "priority": 3,
+        "is_active": true
+    },
+    {
+        "employee_id": 10,
+        "routing_number": "071000013",
+        "account_number": "7000000001",
+        "account_type": "checking",
+        "deposit_type": "remainder",
+        "deposit_value": null,
+        "priority": 1,
+        "is_active": true
+    },
+    {
+        "employee_id": 14,
+        "routing_number": "061000104",
+        "account_number": "8000000001",
+        "account_type": "savings",
+        "deposit_type": "percent",
+        "deposit_value": 50.00,
+        "priority": 1,
+        "is_active": true
+    },
+    {
+        "employee_id": 14,
+        "routing_number": "061000104",
+        "account_number": "8000000002",
+        "account_type": "checking",
+        "deposit_type": "percent",
+        "deposit_value": 50.00,
+        "priority": 2,
+        "is_active": true
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "department_name": "Human Resources",
+        "supervisor_id": 3,
+        "cost_center": "A10",
+        "status": "active",
+        "effective_date": "2023-01-01",
+        "department_id": 1
+    },
+    {
+        "department_name": "Operations",
+        "supervisor_id": 7,
+        "cost_center": "A20",
+        "status": "active",
+        "effective_date": "2023-01-01",
+        "department_id": 2
+    },
+    {
+        "department_name": "Finance",
+        "supervisor_id": 14,
+        "cost_center": "A30",
+        "status": "active",
+        "effective_date": "2023-01-01",
+        "department_id": 3
+    },
+    {
+        "department_name": "Engineering",
+        "supervisor_id": 5,
+        "cost_center": "A40",
+        "status": "active",
+        "effective_date": "2023-01-01",
+        "department_id": 4
+    },
+    {
+        "department_name": "Sales",
+        "supervisor_id": 10,
+        "cost_center": "A50",
+        "status": "active",
+        "effective_date": "2023-01-01",
+        "department_id": 5
+    },
+    {
+        "department_name": "Marketing",
+        "supervisor_id": 8,
+        "cost_center": "A50",
+        "status": "active",
+        "effective_date": "2026-04-02",
+        "department_id": 6
+    },
+    {
+        "department_name": "IT",
+        "supervisor_id": 13,
+        "cost_center": "A60",
+        "status": "active",
+        "effective_date": "2023-01-01",
+        "department_id": 9
+    }
+]

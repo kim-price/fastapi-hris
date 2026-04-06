@@ -1,0 +1,26 @@
+[
+    {
+        "location_id": 1,
+        "location_name": "Vienna Office",
+        "city": "Vienna",
+        "country": "Austria",
+        "timezone": "Europe/Vienna",
+        "is_active": "Yes"
+    },
+    {
+        "location_id": 2,
+        "location_name": "Budapest Office",
+        "city": "Budapest",
+        "country": "Hungary",
+        "timezone": "Europe/Budapest",
+        "is_active": "Yes"
+    },
+    {
+        "location_id": 3,
+        "location_name": "Remote - US",
+        "city": null,
+        "country": "USA",
+        "timezone": "America/New_York",
+        "is_active": "Yes"
+    }
+]
