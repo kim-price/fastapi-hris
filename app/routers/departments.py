@@ -6,12 +6,12 @@ from dependencies import get_session
 
 router = APIRouter()
 
-@router.get("/departments", response_model=list[DepartmentResponse])
+@router.get("/", response_model=list[DepartmentResponse])
 def get_departments(Session = Depends(get_session)):
     departments = Session.query(Departments).all()
     return departments
 
-@router.post("/departments", response_model=DepartmentResponse)
+@router.post("/", response_model=DepartmentResponse)
 def create_department(department: DepartmentCreate, db: Session = Depends(get_session)):
     db_department = Departments(**department.model_dump())
     db.add(db_department)

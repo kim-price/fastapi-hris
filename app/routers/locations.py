@@ -6,12 +6,12 @@ from dependencies import get_session
 
 router = APIRouter()
 
-@router.get("/locations", response_model=list[LocationResponse])
+@router.get("/", response_model=list[LocationResponse])
 def get_locations(Session = Depends(get_session)):
     locations = Session.query(Locations).all()
     return locations
 
-@router.post("/locations", response_model=LocationResponse)
+@router.post("/", response_model=LocationResponse)
 def create_location(location: LocationCreate, db: Session = Depends(get_session)):
     db_location = Locations(**location.model_dump())
     db.add(db_location)
