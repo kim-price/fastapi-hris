@@ -106,7 +106,7 @@ Once running, visit:
 | GET | `/api/compensation/{employee_id}` | Get compensation history for an employee |
 | GET | `/api/compensation/{employee_id}/current` | Get the current compensation record for an employee |
 | PUT | `/api/compensation/` | Add a new effective-dated compensation record |
-**Note:** Compensation records are effective-dated. The API stores compensation history and returns the most recent record as the employee’s current compensation.
+> **Note:** Compensation records are effective-dated. The API stores compensation history and returns the most recent record as the employee’s current compensation.
 
 ### Direct Deposit
 
